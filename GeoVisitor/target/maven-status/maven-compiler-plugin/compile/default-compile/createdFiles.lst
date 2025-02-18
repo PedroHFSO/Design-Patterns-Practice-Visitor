@@ -1,0 +1,9 @@
+main/Local.class
+main/Estado.class
+main/JSONVisitor.class
+main/Visitor.class
+main/Pais.class
+Test/VisitorTesting.class
+main/CSVVisitor.class
+com/mycompany/geovisitor/GeoVisitor.class
+main/Cidade.class
